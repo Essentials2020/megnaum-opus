@@ -1,1 +1,3 @@
-# megnaum-opus
+# magnaum-opus
+
+It can be anything
